@@ -71,7 +71,7 @@ msgid "Add this change to Substitution &Filters"
 msgstr "Adja hozzá ezt a változást a Helyettesítő szűrőkhöz"
 
 msgid "Add to Line &Filters"
-msgstr ""
+msgstr "Hozzáadás a Sorszűrőkhöz"
 
 #, c-format
 msgid "&Undo"
